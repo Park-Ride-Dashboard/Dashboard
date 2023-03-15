@@ -1,5 +1,0 @@
-[run]
-omit = 
-    */__init__.py
-    testrunner.py
-    tests/test_logger.py
